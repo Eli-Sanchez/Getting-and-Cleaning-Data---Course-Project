@@ -74,7 +74,3 @@ FinalData <- TidyData %>%
 write.table(FinalData, "FinalData.txt", row.name=FALSE)
 
 View(FinalData)
-
-library(knitr)
-knit2html("codebook.Rmd")
-getwd()
