@@ -1,4 +1,4 @@
-# Coursera Getting and Cleaning Data Course Week 4 Project 
+# Project Data Cleaning Coursera
 
 # You should create one R script called run_analysis.R that does the following.
 

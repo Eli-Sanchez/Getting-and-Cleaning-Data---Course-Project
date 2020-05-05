@@ -1,10 +1,14 @@
+README
+================
+
 Getting and Cleaning Data Course Project
 
-This is the course project for the Getting and Cleaning Data Coursera course.
+This is the course project for the Getting and Cleaning Data Coursera
+course.
 
 Dataset: Human Activity Recognition Using Smartphones
 
-The included R script, run_analysis.R, conducts:
+The included R script, run\_analysis.R, conducts:
 
     1) Download the dataset from web if it does not already exist in the working directory.
     2) Read both the train and test datasets and merge them into x(measurements), y(activity) and   
@@ -17,7 +21,7 @@ The included R script, run_analysis.R, conducts:
     5) Generate 'Tidy Dataset' that consists of the average (mean) of each variable for each subject and 
        each activity. The result is shown in the file tidy_dataset.txt.
 
-The files of this repository are: 
+The files of this repository are:
 
     - CodeBook.md: A code book that describes the variables, the data, and any transformations or work 
       that I performed to clean up the data.
